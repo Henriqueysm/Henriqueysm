@@ -5,18 +5,6 @@
 🚀 Buscando minha primeira oportunidade na área de tecnologia  
 👨‍💻 Atualmente aprendendo **Angular, Java e Spring Boot**
 
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/henriqueysms-projects/)
-
----
-
-### 📊 Estatísticas do GitHub:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=henriqueysm&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueysm&layout=donut&theme=tokyonight)
-
----
-
-
 ### 🚀 Tecnologias e Ferramentas:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -27,6 +15,17 @@
 ![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/henriqueysms-projects/)
+
+---
+
+### 📊 Estatísticas do GitHub:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=henriqueysm&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueysm&layout=donut&theme=tokyonight)
 
 ---
 
