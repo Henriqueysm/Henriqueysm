@@ -31,9 +31,9 @@
 
 ### 🌟 Projetos em Destaque:
 
-🔹 [**Site Arquivo Jedi**](#) - Site voltado para o universo de Star Wars, com curiosidades, informações, quizz e muito mais.  
+🔹 [**Site Arquivo Jedi**](https://arquivo-jedi.vercel.app/) - Site voltado para o universo de Star Wars, com curiosidades, informações, quizz e muito mais.  
 🔹 [**Site Vitrine Empresarial**](#) - Página estática para empresa fictícia  
-🔹 [**Clinica Saúde Ocular**](#) - Clinica desenvolvida para a aula de Lógica e Programação
+🔹 [**Clinica Saúde Ocular**](https://saudeocular.vercel.app/) - Clinica desenvolvida para a aula de Lógica e Programação
 
 ---
 
