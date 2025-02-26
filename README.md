@@ -5,7 +5,8 @@
 🚀 Buscando minha primeira oportunidade na área de tecnologia  
 👨‍💻 Atualmente aprendendo **Angular, Java e Spring Boot**
 
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/henriqueysms-projects/)
+
 ---
 
 ### 📊 Estatísticas do GitHub:
