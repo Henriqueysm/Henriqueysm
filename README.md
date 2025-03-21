@@ -3,7 +3,7 @@
 🎯 **Engenheiro de Software em formação | Desenvolvedor Frontend**  
 📚 Estudante de Engenharia de Software na Estácio e Desenvolvimento de Sistemas na ETEC  
 🚀 Buscando minha primeira oportunidade na área de tecnologia  
-👨‍💻 Atualmente aprendendo **Angular, Java e Spring Boot**
+👨‍💻 Estou ampliando meus conhecimentos em React, NodeJs, C# e Java.**
 
 ### 🚀 Tecnologias e Ferramentas:
 
