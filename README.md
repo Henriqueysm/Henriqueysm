@@ -11,7 +11,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=grey)
 ![C](https://img.shields.io/badge/c-3f4fae?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-1c8ad0?style=for-the-badge&logo=c++&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-300868?style=for-the-badge&logo=c%23&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-744e3b?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-ED7508?style=for-the-badge&logo=sql&logoColor=white)
